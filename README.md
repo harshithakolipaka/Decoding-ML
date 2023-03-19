@@ -20,4 +20,5 @@ Day 2:
 2. KNN Diabetics Prediction 
 
 Day 3:
+
 Model Evaluation Techniques
